@@ -1,0 +1,6 @@
+requests>=2.31
+beautifulsoup4>=4.12
+fpdf2>=2.7.8
+pypdf>=4.0
+# El sitio de la Corte Constitucional se arma con JavaScript; se usa solo si la descarga directa no trae el texto.
+playwright>=1.40
